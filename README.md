@@ -1,17 +1,17 @@
-# 📊 Sales Patterns and Optimization Project  
+#  Sales Patterns and Optimization Project  
 
 This project showcases an **end-to-end ETL pipeline and interactive Power BI dashboard** for analyzing customer and product sales patterns.  
 
 ---
 
-## 🚀 Tools & Technologies  
+##  Tools & Technologies  
 - **Excel** → Data cleaning & initial exploration  
 - **SQL** → Data transformation, handling missing values, KPI calculation  
 - **Power BI** → Dashboard design & DAX measures for advanced analytics  
 
 ---
 
-## 📂 Dataset  
+##  Dataset  
 The dataset contains retail sales transactions with the following fields:  
 - `Item Identifier`, `Item Type`, `Item Weight`, `Item Visibility`  
 - `Outlet Identifier`, `Outlet Type`, `Outlet Size`, `Outlet Location Type`  
@@ -19,7 +19,7 @@ The dataset contains retail sales transactions with the following fields:
 
 ---
 
-## 📌 Key Insights from the Dashboard  
+##  Key Insights from the Dashboard  
 1. **KPIs**:  
    - **Total Quantity Sold**: 541.91K  
    - **Average Order Value**: 376.38 USD  
@@ -45,7 +45,7 @@ The dataset contains retail sales transactions with the following fields:
 
 ---
 
-## 📈 Outcome  
+##  Outcome  
 The dashboard enables:  
 - Identifying **sales trends** across time and countries  
 - Segmenting **customers by size & order value**  
@@ -54,7 +54,7 @@ The dashboard enables:
 
 ---
 
-## ⚡ How to Use  
+##  How to Use  
 1. Clone this repository  
 2. Load `cleaned_sales_data.xlsx` into Power BI  
 3. Open `Sales_Dashboard.pbix` to explore the dashboard  
