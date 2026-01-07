@@ -16,6 +16,18 @@ The objective of the project is to:
 
 ---
 
+## Analytical Approach
+
+Sales data is analyzed to identify patterns and trends across products, customers, locations, and time periods.
+
+The analysis focuses on:
+- Understanding historical performance and demand behavior
+- Aggregating data at multiple levels to support planning and comparison
+- Identifying trends that can inform future business decisions
+- Preparing structured analytical outputs for reporting and downstream use
+
+---
+
 ##  Tools & Technologies  
 - **Excel** → Data cleaning & initial exploration  
 - **SQL** → Data transformation, handling missing values, KPI calculation  
