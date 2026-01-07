@@ -43,7 +43,8 @@ The dataset contains retail sales transactions with the following fields:
 
 ---
 
-##  Key Insights from the Dashboard  
+##  Reporting Outputs & Insights
+ 
 1. **KPIs**:  
    - **Total Quantity Sold**: 541.91K  
    - **Average Order Value**: 376.38 USD  
@@ -69,12 +70,23 @@ The dataset contains retail sales transactions with the following fields:
 
 ---
 
-##  Outcome  
-The dashboard enables:  
-- Identifying **sales trends** across time and countries  
-- Segmenting **customers by size & order value**  
-- Pinpointing **top-performing products & customers**  
-- Supporting **data-driven decision-making** for sales optimization  
+## Reporting Outcomes
+
+The reporting layer enables:
+- Monitoring performance trends across time, products, and regions
+- Comparing customer segments and order behavior
+- Identifying consistently high-performing products and customers
+- Supporting structured, data-driven decision-making
+
+---
+
+ ## Reporting Structure
+
+The reporting structure is designed to be consistent and reusable:
+- Standardized KPI definitions across visuals
+- Consistent filters and slicers across pages
+- Clear separation between data preparation and visualization logic
+- Dashboard layout optimized for business stakeholder consumption
 
 ---
 
