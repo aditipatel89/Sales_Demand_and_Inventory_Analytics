@@ -35,13 +35,14 @@ The analysis focuses on:
 
 ---
 
-##Dataset
+## Dataset
 The dataset contains retail sales transaction data with the following fields:
 
--InvoiceNo, StockCode, Description, Quantity  
--InvoiceDate, UnitPrice, Customer_Id, Country  
+**InvoiceNo, StockCode, Description, Quantity**  
+**InvoiceDate, UnitPrice, Customer_Id, Country**
 
 The data represents individual product-level transactions across customers and regions.
+
 
 ---
 
