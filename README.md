@@ -1,6 +1,18 @@
-#  Sales Patterns and Optimization Project  
+#  Sales_Demand_and_Inventory_Analytics Project  
 
 This project showcases an **end-to-end ETL pipeline and interactive Power BI dashboard** for analyzing customer and product sales patterns.  
+
+---
+
+## Business Context
+
+This project simulates a demand, sales, and inventory planning scenario similar to enterprise supply chain and manufacturing environments.
+
+The objective of the project is to:
+- Analyze historical sales data to support demand forecasting
+- Monitor product performance and availability indicators
+- Support planning and purchasing decisions
+- Provide standardized analytical reporting for business stakeholders
 
 ---
 
