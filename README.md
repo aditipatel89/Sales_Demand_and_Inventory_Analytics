@@ -35,6 +35,12 @@ The analysis focuses on:
 
 ---
 
+## Python Data Preparation
+A lightweight Python script is included to clean raw sales data, remove invalid records,  
+and prepare a consistent dataset for SQL analysis and Power BI reporting.
+
+---
+
 ## Dataset
 The dataset contains retail sales transaction data with the following fields:
 
