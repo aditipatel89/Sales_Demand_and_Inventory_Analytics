@@ -88,13 +88,6 @@ The reporting structure is designed to be consistent and reusable:
 - Clear separation between data preparation and visualization logic
 - Dashboard layout optimized for business stakeholder consumption
 
----
 
-##  How to Use  
-1. Clone this repository  
-2. Load `cleaned_sales_data.xlsx` into Power BI  
-3. Open `Sales_Dashboard.pbix` to explore the dashboard  
-
----
 
 
