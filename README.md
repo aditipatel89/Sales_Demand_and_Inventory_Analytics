@@ -35,11 +35,13 @@ The analysis focuses on:
 
 ---
 
-##  Dataset  
-The dataset contains retail sales transactions with the following fields:  
-- `Item Identifier`, `Item Type`, `Item Weight`, `Item Visibility`  
-- `Outlet Identifier`, `Outlet Type`, `Outlet Size`, `Outlet Location Type`  
-- `Sales`, `Rating`, `Customer_ID`, `Country`  
+##Dataset
+The dataset contains retail sales transaction data with the following fields:
+
+-InvoiceNo, StockCode, Description, Quantity  
+-InvoiceDate, UnitPrice, Customer_Id, Country  
+
+The data represents individual product-level transactions across customers and regions.
 
 ---
 
